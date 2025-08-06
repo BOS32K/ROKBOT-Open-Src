@@ -1,0 +1,21 @@
+{
+  "hub1": "photo/hub1.png",
+  "hub2": "photo/hub2.png",
+  "food": "photo/food.png",
+  "wood": "photo/wood.png",
+  "stone": "photo/stone.png",
+  "gold": "photo/gold.png",
+  "food-1": "photo/food-1.png",
+  "wood-1": "photo/wood-1.png",
+  "stone-1": "photo/stone-1.png",
+  "gold-1": "photo/gold-1.png",
+  "search": "photo/search.png",
+  "add": "photo/add.png",
+  "rss": "photo/rss.png",
+  "delete": "photo/delete.png",
+  "search1": "photo/search1.png",
+  "get": "photo/get.png",
+  "make_troop": "photo/make_troop.png",
+  "send_troop": "photo/send_troop.png",
+  "troop1": "photo/troop1.png"
+}
