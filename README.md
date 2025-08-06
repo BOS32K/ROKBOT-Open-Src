@@ -29,8 +29,11 @@
 本腳本需要 Ldplayer，Python 3.10.11
 
 pip install opencv-python
+
 pip install numpy
+
 pip install ultralytics
+
 pip install pillow
 
 ---
